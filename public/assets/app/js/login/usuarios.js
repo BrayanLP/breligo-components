@@ -1,0 +1,2 @@
+function hi(){console.log("red blue")}
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkN0cmwuanMiXSwibmFtZXMiOlsiaGkiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiQUFBQSxRQUFTQSxNQUNSQyxRQUFRQyxJQUFJIiwiZmlsZSI6InVzdWFyaW9zLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gaGkgKCl7XG5cdGNvbnNvbGUubG9nKFwicmVkIGJsdWVcIilcbn0iXX0=
